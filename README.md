@@ -1,3 +1,3 @@
-# DevOps-B3
-this is my devops lab
-parth patil has created this repository 17-4-24
+# DevOps-B3 <br>
+this is my devops lab <br>
+parth patil has created this repository 22-7-24
